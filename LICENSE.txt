@@ -1,0 +1,9 @@
+동방일일담: Where the Seasons Rest
+Copyright (c) 2026 parkrye. All rights reserved.
+
+This is an unofficial fan work (東方Project二次創作) based on Touhou Project
+by Team Shanghai Alice (上海アリス幻樂団). It is distributed free of charge.
+
+Except for the third-party components listed in THIRD_PARTY_NOTICES.txt,
+you may not copy, modify, redistribute, or sell this software or its assets
+without prior written permission.
