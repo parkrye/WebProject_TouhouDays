@@ -28,6 +28,7 @@ https://parkrye.github.io/WebProject_TouhouDays/
 
 ## 버전
 
+- 0.1.6
 - 0.1.5
 - 0.1.4
 - 0.1.3
@@ -40,6 +41,7 @@ https://parkrye.github.io/WebProject_TouhouDays/
 - 원작: 東方Project — 上海アリス幻樂団 (ZUN)
 - 글꼴: [Galmuri](https://github.com/quiple/galmuri) — Lee Minseo (SIL Open Font License 1.1)
 - 화면 효과: pixelfx — Patch, Hugo Duprez (MIT License)
+- Git 로고: Jason Long (CC BY 3.0)
 
 ## 라이선스
 
