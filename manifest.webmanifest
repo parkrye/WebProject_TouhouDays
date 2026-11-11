@@ -1,7 +1,7 @@
 {
   "name": "동방일일담: Where the Seasons Rest",
   "short_name": "동방일일담",
-  "description": "동방 Project 2차 창작 팬게임. 글자 없는 2D 픽셀 생활 시뮬레이션.",
+  "description": "Touhou Project fan game — a wordless 2D pixel-art life sim, free in your browser. 東方Project二次創作。文字のないドット絵生活シミュレーション、ブラウザで無料。 동방 Project 2차 창작 팬게임. 글자 없는 2D 픽셀 생활 시뮬레이션, 브라우저에서 무료.",
   "lang": "ko",
   "start_url": "./",
   "display": "fullscreen",
