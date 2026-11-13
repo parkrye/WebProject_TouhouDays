@@ -28,6 +28,7 @@ https://parkrye.github.io/WebProject_TouhouDays/
 
 ## 버전
 
+- 0.1.10
 - 0.1.9
 - 0.1.8
 - 0.1.7
