@@ -8,7 +8,7 @@
   <a href="https://parkrye.github.io/WebProject_TouhouDays/"><b><img src="docs/img/ic/e_walk.png" width="20" height="20" alt=""> 브라우저에서 플레이</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/parkrye/WebProject_TouhouDays/releases/latest"><img src="docs/img/ic/e_export.png" width="20" height="20" alt=""> 오프라인용 내려받기</a>
 </p>
-<p align="center">동방 Project 2차 창작 팬게임 — 글자 없는 2D 픽셀 생활 시뮬레이션<br><sub>무료 · 설치 없이 브라우저에서 · PC · 모바일 · 저장은 이 브라우저에 · 버전 0.1.11</sub></p>
+<p align="center">동방 Project 2차 창작 팬게임 — 글자 없는 2D 픽셀 생활 시뮬레이션<br><sub>무료 · 설치 없이 브라우저에서 · PC · 모바일 · 저장은 이 브라우저에 · 버전 0.1.12</sub></p>
 
 ## 안내
 
@@ -32,6 +32,7 @@
 
 ## 버전
 
+- 0.1.12
 - 0.1.11
 - 0.1.10
 - 0.1.9

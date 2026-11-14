@@ -8,7 +8,7 @@
   <a href="https://parkrye.github.io/WebProject_TouhouDays/"><b><img src="docs/img/ic/e_walk.png" width="20" height="20" alt=""> Play in your browser</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/parkrye/WebProject_TouhouDays/releases/latest"><img src="docs/img/ic/e_export.png" width="20" height="20" alt=""> Download for offline play</a>
 </p>
-<p align="center">A Touhou Project fan game — a wordless 2D pixel-art life sim<br><sub>Free · No install, runs in the browser · PC & mobile · Saves stay in this browser · Version 0.1.11</sub></p>
+<p align="center">A Touhou Project fan game — a wordless 2D pixel-art life sim<br><sub>Free · No install, runs in the browser · PC & mobile · Saves stay in this browser · Version 0.1.12</sub></p>
 
 ## Guides
 
@@ -32,6 +32,7 @@ Please post in [Discussions](https://github.com/parkrye/WebProject_TouhouDays/di
 
 ## Version
 
+- 0.1.12
 - 0.1.11
 - 0.1.10
 - 0.1.9

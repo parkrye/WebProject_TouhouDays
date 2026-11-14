@@ -8,7 +8,7 @@
   <a href="https://parkrye.github.io/WebProject_TouhouDays/"><b><img src="docs/img/ic/e_walk.png" width="20" height="20" alt=""> ブラウザでプレイ</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/parkrye/WebProject_TouhouDays/releases/latest"><img src="docs/img/ic/e_export.png" width="20" height="20" alt=""> オフライン用ダウンロード</a>
 </p>
-<p align="center">東方Project二次創作ファンゲーム — 文字のない2Dドット絵生活シミュレーション<br><sub>無料 · インストール不要 · PC・スマホ対応 · セーブはこのブラウザに保存 · バージョン 0.1.11</sub></p>
+<p align="center">東方Project二次創作ファンゲーム — 文字のない2Dドット絵生活シミュレーション<br><sub>無料 · インストール不要 · PC・スマホ対応 · セーブはこのブラウザに保存 · バージョン 0.1.12</sub></p>
 
 ## ガイド
 
@@ -32,6 +32,7 @@
 
 ## バージョン
 
+- 0.1.12
 - 0.1.11
 - 0.1.10
 - 0.1.9

@@ -8,7 +8,7 @@
   <a href="https://parkrye.github.io/WebProject_TouhouDays/"><b><img src="docs/img/ic/e_walk.png" width="20" height="20" alt=""> 在浏览器中游玩</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/parkrye/WebProject_TouhouDays/releases/latest"><img src="docs/img/ic/e_export.png" width="20" height="20" alt=""> 离线版下载</a>
 </p>
-<p align="center">东方Project同人二次创作游戏 — 没有文字的2D像素生活模拟<br><sub>免费 · 无需安装 · 支持电脑与手机 · 存档保存在本浏览器 · 版本 0.1.11</sub></p>
+<p align="center">东方Project同人二次创作游戏 — 没有文字的2D像素生活模拟<br><sub>免费 · 无需安装 · 支持电脑与手机 · 存档保存在本浏览器 · 版本 0.1.12</sub></p>
 
 ## 指南
 
@@ -32,6 +32,7 @@
 
 ## 版本
 
+- 0.1.12
 - 0.1.11
 - 0.1.10
 - 0.1.9
